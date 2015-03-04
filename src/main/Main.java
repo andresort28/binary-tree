@@ -1,7 +1,3 @@
-// Universidad ICESI
-// Created by: Andres Felipe Ortiz - 10207000
-
-
 package main;
 
 public class Main 
