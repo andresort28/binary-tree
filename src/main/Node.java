@@ -1,7 +1,3 @@
-// Universidad ICESI
-// Created by: Andres Felipe Ortiz - 10207000
-
-
 package main;
 
 /*
@@ -101,8 +97,6 @@ public class Node
 			return null;
 	}
 	
-	
-	
 	/*
 	 * Add the Object to the node.
 	 */
@@ -161,10 +155,6 @@ public class Node
 	
 	//---------------Methods to test the binary tree ONLY----------------------------------------------
 	
-	// Universidad ICESI
-	// Created by: Andres Felipe Ortiz - 10207000
-	
-	
 	/*
 	 * Method which return the POST-ORDER
 	 */
@@ -206,6 +196,5 @@ public class Node
 	public Node getRight ()
 	{
 		return right;
-	}
-	
+	}	
 }
